@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xbmImage", "XbmImage\xbmImage.csproj", "{735CAC00-5017-4162-87E2-CA026A83219D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E2C2EE0D-8E72-4200-851B-4D9A973A4599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735CAC00-5017-4162-87E2-CA026A83219D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735CAC00-5017-4162-87E2-CA026A83219D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735CAC00-5017-4162-87E2-CA026A83219D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735CAC00-5017-4162-87E2-CA026A83219D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C2EE0D-8E72-4200-851B-4D9A973A4599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C2EE0D-8E72-4200-851B-4D9A973A4599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C2EE0D-8E72-4200-851B-4D9A973A4599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C2EE0D-8E72-4200-851B-4D9A973A4599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
